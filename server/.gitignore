@@ -1,0 +1,15 @@
+node_modules
+build/
+dist
+commands.txt
+yarn-error.log
+yarn-error.log
+coverage
+.env
+.env.production
+.tool-versions
+.DS_Store
+commands.txt
+tmp/**/*
+!tmp/**/.gitkeep
+ormconfig.json
